@@ -1,6 +1,6 @@
+# Christmas Movie Bingo
 <img align="right" width="250" height="300" src="https://github.com/andyrew/Christmas-Movie-Bingo/blob/main/bingo-thumbnail.png">
 
-# Christmas Movie Bingo
 The perfect, fun accompianment to Christmas movies on Halmark, Lifetime, or your streaming service of choice. The goal is to have fun, fill squares, and enjoy a poorly acted, predictable, but heartwarming movie.
 
 ## Instructions

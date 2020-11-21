@@ -4,9 +4,9 @@ The perfect, fun accompianment to Christmas movies on Halmark, Lifetime, or your
 ### Instructions
 Download [ChristmasMovieBingo.pdf](https://github.com/andyrew/Christmas-Movie-Bingo/blob/main/ChristmasMovieBingo.pdf) and print enough bingo cards for everyone to have one. Then simply watch a movie together and mark off squares as the events occur in the movie. Lively debate over whether something counts is encouraged. The first person to get five squares in a line (horizontal, vertical, or diagonal) wins!
 
-You can customize your game by downloading [SquareList.txt](https://github.com/andyrew/Christmas-Movie-Bingo/blob/main/SquareList.txt). Add, remove, and edit items in the list as you see fit. Then generate your own cards here by copying the list and pasting into the "Enter Words or Numbers Here" field: https://myfreebingocards.com/bingo-card-generator.
+You can customize your game by downloading [SquareList.txt](https://github.com/andyrew/Christmas-Movie-Bingo/blob/main/SquareList.txt). Add, remove, and edit items in the list as you see fit. Then generate your own cards by copying the list and pasting into the "Enter Words or Numbers Here" field with this bingo card generator: https://myfreebingocards.com/bingo-card-generator.
 
-### Square Explanations:
+## Square Explanations:
 <dl>
   <dt>Almost Kissed or Interrupted Kiss</dt>
   <dd>Two people start coming together for a kiss, but someone turns or avoids it at the last second. Or two people begin to kiss but the kiss abruptly ends when another character walks in or something happens (like a crash from the kitchen).</dd>

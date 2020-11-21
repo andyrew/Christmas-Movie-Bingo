@@ -1,9 +1,10 @@
 # Christmas Movie Bingo
 The perfect, fun accompianment to Christmas movies on Halmark, Lifetime, or your streaming service of choice. The goal is to have fun, fill squares, and enjoy a poorly acted, predictable, but heartwarming movie. Being lenient with interpretation helps make it more fun, but if you’re filling in a half dozen squares in the first few minutes, you might be too lenient. Be patient, most of these things happen in most movies and are obvious when they do.
 
-Download the pdf and print your bingo cards.
+### Instructions
+Download [ChristmasMovieBingo.pdf](https://github.com/andyrew/Christmas-Movie-Bingo/blob/main/ChristmasMovieBingo.pdf) and print enough bingo cards for everyone to have one. Then simply watch a movie together and mark off squares as the events occur in the movie. Lively debate over whether something counts is encouraged. The first person to get five squares in a line (horizontal, vertical, or diagonal) wins!
 
-Modify your bingo cards by downloading [SquareList.txt](SquareList.txt), make your changes, and generate cards here: https://myfreebingocards.com/bingo-card-generator 
+You can customize your game by downloading [SquareList.txt](https://github.com/andyrew/Christmas-Movie-Bingo/blob/main/SquareList.txt). Add, remove, and edit items in the list as you see fit. Then generate your own cards here by copying the list and pasting into the "Enter Words or Numbers Here" field: https://myfreebingocards.com/bingo-card-generator.
 
 ### Square Explanations:
 <dl>

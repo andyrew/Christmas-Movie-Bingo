@@ -3,7 +3,7 @@ The perfect, fun accompianment to Christmas movies on Halmark, Lifetime, or your
 
 Download the pdf and print your bingo cards.
 
-Modify your bingo cards by downloading SquareList.txt, make your changes, and generate cards here: https://myfreebingocards.com/bingo-card-generator 
+Modify your bingo cards by downloading [SquareList.txt](SquareList.txt), make your changes, and generate cards here: https://myfreebingocards.com/bingo-card-generator 
 
 ### Square Explanations:
 <dl>

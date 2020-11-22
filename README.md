@@ -4,19 +4,9 @@
 The perfect, fun accompianment to Christmas movies on Halmark, Lifetime, or your streaming service of choice. The goal is to have fun, fill squares, and enjoy a poorly acted, predictable, but heartwarming movie.
 
 ## Instructions
-Download [Christmas-Movie-Bingo.pdf](https://www.github.com/andyrew/Christmas-Movie-Bingo/raw/main/Christmas-Movie-Bingo.pdf) and print enough bingo cards for everyone to have one. Then simply watch a movie together and mark off squares as the events occur in the movie. Lively debate over whether something counts is encouraged. Being lenient with interpretation helps make it more fun, but if you’re filling in a half dozen squares in the first few minutes, you might be too lenient. Be patient, most of these things happen in most movies and are obvious when they do. The first person to get five squares in a line (horizontal, vertical, or diagonal) wins!  
+Download [Christmas-Movie-Bingo-Cards.pdf](https://www.github.com/andyrew/Christmas-Movie-Bingo/raw/main/Christmas-Movie-Bingo-Cards.pdf) and print enough bingo cards for everyone to have one (there are 30 cards with random square arrangements). Then watch a movie together and mark off squares as the events occur in the movie. The first person to get five squares in a line (horizontal, vertical, or diagonal) wins! Specific explainations for every square is provided below. Lively debate amongst participants about whether something counts is encouraged. Being lenient with interpretation helps make it more fun, but if you’re filling in a half dozen squares in the first few minutes, you might be too lenient. Be patient, most of these things happen in most movies and are obvious when they do.
 
 You can customize your game by downloading [SquareList.txt](https://github.com/andyrew/Christmas-Movie-Bingo/blob/main/SquareList.txt). Add, remove, and edit items in the list as you see fit. Then generate your own cards by copying the list and pasting into the "Enter Words or Numbers Here" field with this bingo card generator: https://myfreebingocards.com/bingo-card-generator.
-
-## Movie Suggestions:
-<dl>
-  <dt>A Christmas in Vermont</dt>
-  <dd>The classic story written by script writers with a questionable understanding of the apperal business and private equity. Also Chevy Chase! Free on <a href='https://www.youtube.com/watch?v=5BRTT7V4Ppk'>youtube</a>.</dd>
-  <dt>The Christmas Calendar</dt>
-  <dd>A big city lawyer returns to her small town home to take over her grandmother's bakery. A secret admirer sends a christmas calendar with a new clue each day! On <a href='https://www.hulu.com/watch/f5dc2716-13c1-4a67-96c1-e372d6a415d5'>hulu</a>.</dd>
-  <dt>Christmas Perfection</dt>
-  <dd>A control freak wants the perfect holiday, while her best friend prefers spontaneity. Featuring really bad irish accents! On <a href='https://www.hulu.com/movie/christmas-perfection-c2dd3a4b-a72a-4c07-a5a0-624e01137c11'>hulu</a>.</dd>
-</dl>
 
 ## Square Explanations:
 <dl>
@@ -68,4 +58,14 @@ You can customize your game by downloading [SquareList.txt](https://github.com/a
   <dd>Christmas market, christmas caroling, performance, or widely attended party.</dd>
   <dt>What About (Obvious Love Interest)?</dt>
   <dd>A friend or family member asks about the obvious love interest. The main character usually dismisses it as nothing, but we all know that it’s something!</dd>
+</dl>
+
+## Movie Suggestions:
+<dl>
+  <dt>A Christmas in Vermont</dt>
+  <dd>The classic story written by script writers with a questionable understanding of the apperal business and private equity. Also Chevy Chase! Free on <a href='https://www.youtube.com/watch?v=5BRTT7V4Ppk'>youtube</a>.</dd>
+  <dt>The Christmas Calendar</dt>
+  <dd>A big city lawyer returns to her small town home to take over her grandmother's bakery. A secret admirer sends a christmas calendar with a new clue each day! On <a href='https://www.hulu.com/watch/f5dc2716-13c1-4a67-96c1-e372d6a415d5'>hulu</a>.</dd>
+  <dt>Christmas Perfection</dt>
+  <dd>A control freak wants the perfect holiday, while her best friend prefers spontaneity. Featuring really bad irish accents! On <a href='https://www.hulu.com/movie/christmas-perfection-c2dd3a4b-a72a-4c07-a5a0-624e01137c11'>hulu</a>.</dd>
 </dl>

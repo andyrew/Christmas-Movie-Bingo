@@ -1,7 +1,7 @@
 # Christmas Movie Bingo
 <img align="right" width="30%" src="https://github.com/andyrew/Christmas-Movie-Bingo/blob/main/bingo-thumbnail.png">
 
-The perfect, fun accompianment to Christmas movies on Halmark, Lifetime, or your streaming service of choice. The goal is to have fun, fill squares, and enjoy a poorly acted, predictable, but heartwarming movie.
+The perfect, fun accompianment to Christmas movies on Halmark, Lifetime, or your streaming service of choice. The goal is to have fun with your family and friends, fill squares, and "enjoy" a cheesy, predictable, but heartwarming movie.
 
 ## Instructions
 Download [Christmas-Movie-Bingo-Cards.pdf](https://www.github.com/andyrew/Christmas-Movie-Bingo/raw/main/Christmas-Movie-Bingo-Cards.pdf) and print enough bingo cards for everyone to have one (there are 30 cards with random square arrangements). Then watch a movie together and mark off squares as the events occur in the movie. The first person to get five squares in a line (horizontal, vertical, or diagonal) wins! Specific explainations for every square is provided below. Lively debate amongst participants about whether something counts is encouraged. Being lenient with interpretation helps make it more fun, but if you’re filling in a half dozen squares in the first few minutes, you might be too lenient. Be patient, most of these things happen in most movies and are obvious when they do.

@@ -39,13 +39,13 @@ You can customize your game by downloading [SquareList.txt](https://github.com/a
   <dt>Ice Skating</dt>
   <dd>Ice skating by anyone (can be extras or b-roll).</dd>
   <dt>Learned a Lesson</dt>
-  <dd>Someone proclaims that they’ve learned a lesson or changed their ways..</dd>
+  <dd>Someone proclaims that they’ve learned a lesson or changed their ways.</dd>
   <dt>Move to Hometown or Small Town</dt>
   <dd>Main character decides to move back home to be closer to family or move into the small town for a simpler or more authentic life.</dd>
   <dt>Meet at Restaurant or Cafe</dt>
   <dd>Two characters having conversation in a restaurant or cafe.</dd>
   <dt>Noticed Touch</dt>
-  <dd>wo characters touch and one, both, or a different character notices the touch in an obvious way, by looking at the touch, or smiling. </dd>
+  <dd>Two characters touch and one, both, or a different character notices the touch in an obvious way, by looking at the touch, or smiling. </dd>
   <dt>Playful Flirting</dt>
   <dd>Not simply flirting, but playfully flirting. For example throwing flour while baking, throwing tinsel while decorating, or throwing snow while outside. Usually involves throwing something.</dd>
   <dt>Playing in the Snow</dt>
@@ -65,7 +65,7 @@ You can customize your game by downloading [SquareList.txt](https://github.com/a
 ## Movie Suggestions:
 <dl>
   <dt>A Christmas in Vermont</dt>
-  <dd>The classic story written by script writers with a questionable understanding of the apperal business and private equity. Also Chevy Chase! Free on <a href='https://www.youtube.com/watch?v=5BRTT7V4Ppk'>youtube</a>.</dd>
+  <dd>The classic story written by script writers with a questionable understanding of the apparel industry and private equity. Also Chevy Chase! Free on <a href='https://www.youtube.com/watch?v=5BRTT7V4Ppk'>youtube</a>.</dd>
   <dt>The Christmas Calendar</dt>
   <dd>A big city lawyer returns to her small town home to take over her grandmother's bakery. A secret admirer sends a christmas calendar with a new clue each day! On <a href='https://www.hulu.com/watch/f5dc2716-13c1-4a67-96c1-e372d6a415d5'>hulu</a>.</dd>
   <dt>Christmas Perfection</dt>

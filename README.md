@@ -18,10 +18,10 @@ You can customize your game by downloading [SquareList.txt](https://github.com/a
   <dd>Includes cookie decorating. Excludes cooking or roasting (no, you don’t “bake” a turkey).</dd>
   <dt>Business in Trouble / Job Crisis</dt>
   <dd>A business central to the story is struggling, a main character is concerned about losing their job, or something at work urgently needs attention.</dd>
+  <dt>Cold Heart Shows Warmth</dt>
+  <dd>Someone who is generally negative about a topic begins to open up, show vunerability, or participate and actually enjoys it. Topics include, but are not limited to, christmas in general, life in small towns, or the family business. For example, someone who prefers to keep busy with their work through christmas because they're just not into it (cold heart) - but later they share that they've avoided christmas since they're father passed because it was his favorite holiday (shows warmth).</dd>
   <dt>Career Change / Starting Business</dt>
   <dd>A main character decides to change career or start a new business.</dd>
-  <dt>Carriage Ride</dt>
-  <dd>Carriage or sleigh ride. Can be b-roll.</dd>
   <dt>Christmas Miracle, Magic, or Fate</dt>
   <dd>Anything that is specifically called out as a miracle, magic or fate. Also includes anything that happens with a wink from a Santa-esque character or is accompanied by sparkle sound effects (you know it when you hear it!).</dd>
   <dt>City Slicker in Small Town</dt>
@@ -36,16 +36,16 @@ You can customize your game by downloading [SquareList.txt](https://github.com/a
   <dd>Must be sincere heartfelt apology, typically for something that happened earlier in the movie. Not for bumping into someone, spilling coffee, etc, (though exceptions may be made if the apology is over the top and cheesy).</dd>
   <dt>Hot Chocolate</dt>
   <dd>Someone says the words “Hot Chocolate” or someone is seen drinking hot chocolate. Children holding mugs can be assumed to be hot chocolate. Adults holding mugs can not be assumed to be hot chocolate unless there is whipped cream on top, a candy cane sticking out, or marshmallows visible.</dd>
-  <dt>Ice Skating</dt>
-  <dd>Ice skating by anyone (can be extras or b-roll).</dd>
+  <dt>Ice Skating / Carriage Ride</dt>
+  <dd>Ice skating or a carriage rides (can be extras or b-roll).</dd>
   <dt>Learned a Lesson</dt>
   <dd>Someone proclaims that they’ve learned a lesson or changed their ways.</dd>
   <dt>Move to Hometown or Small Town</dt>
   <dd>Main character decides to move back home to be closer to family or move into the small town for a simpler or more authentic life.</dd>
-  <dt>Meet at Restaurant or Cafe</dt>
-  <dd>Two characters having conversation in a restaurant or cafe.</dd>
+  <dt>Nostalgia for the Deceased</dt>
+  <dd>A deceased person is discussed with nostalgia.</dd>
   <dt>Noticed Touch</dt>
-  <dd>Two characters touch and one, both, or a different character notices the touch in an obvious way, by looking at the touch, or smiling. </dd>
+  <dd>Two characters touch and one, both, or a different character notices the touch in an obvious way, by looking at the touch or smiling. </dd>
   <dt>Playful Flirting</dt>
   <dd>Not simply flirting, but playfully flirting. For example throwing flour while baking, throwing tinsel while decorating, or throwing snow while outside. Usually involves throwing something.</dd>
   <dt>Playing in the Snow</dt>
@@ -58,7 +58,7 @@ You can customize your game by downloading [SquareList.txt](https://github.com/a
   <dd>Someone in the movie has a plan that is unknown to others in the movie.</dd>
   <dt>Town Event</dt>
   <dd>Christmas market, christmas caroling, performance, or widely attended party.</dd>
-  <dt>What About (Obvious Love Interest)?</dt>
+  <dt>Inquiry about Obvious Love Interest</dt>
   <dd>A friend or family member asks about the obvious love interest. The main character usually dismisses it as nothing, but we all know that it’s something!</dd>
 </dl>
 

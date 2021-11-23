@@ -71,3 +71,5 @@ You can customize your game by downloading [SquareList.txt](https://github.com/a
   <dt>Christmas Perfection</dt>
   <dd>A control freak wants the perfect holiday, while her best friend prefers spontaneity. Featuring really bad irish accents! On <a href='https://www.hulu.com/movie/christmas-perfection-c2dd3a4b-a72a-4c07-a5a0-624e01137c11'>hulu</a>.</dd>
 </dl>
+<dt>The Knight Before Christmas</dt>
+  <dd>Medieval magic sends a 14th-century knight to modern-day Ohio, where he falls for a high school science teacher who's disillusioned by love. On <a href='https://www.netflix.com/title/81026188'>Netflix</a>.</dd>

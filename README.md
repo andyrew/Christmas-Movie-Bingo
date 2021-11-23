@@ -10,6 +10,18 @@ Specific explainations for every square is provided below. Lively debate amongst
 
 You can customize your game by downloading [SquareList.txt](https://github.com/andyrew/Christmas-Movie-Bingo/blob/main/SquareList.txt). Add, remove, and edit items in the list as you see fit. Then generate your own cards by copying the list and pasting into the "Enter Words or Numbers Here" field with this bingo card generator: https://myfreebingocards.com/bingo-card-generator.
 
+## Movie Suggestions:
+<dl>
+  <dt>A Christmas in Vermont (<a href='https://www.youtube.com/watch?v=5BRTT7V4Ppk'>Free on Youtube</a>)</dt>
+  <dd>The classic story written by script writers with a questionable understanding of the apparel industry and private equity. Also Chevy Chase!</dd>
+  <dt>The Knight Before Christmas (<a href='https://www.netflix.com/title/81026188'>Netflix</a>)</dt>
+  <dd>Medieval magic sends a 14th-century knight to modern-day Ohio, where he falls for a high school science teacher who's disillusioned by love.</dd>
+  <dt>The Christmas Calendar (<a href='https://www.hulu.com/watch/f5dc2716-13c1-4a67-96c1-e372d6a415d5'>Hulu</a>)</dt>
+  <dd>A big city lawyer returns to her small town home to take over her grandmother's bakery. A secret admirer sends a christmas calendar with a new clue each day! .</dd>
+  <dt>Christmas Perfection (<a href='https://www.hulu.com/movie/christmas-perfection-c2dd3a4b-a72a-4c07-a5a0-624e01137c11'>Hulu</a>)</dt>
+  <dd>A control freak wants the perfect holiday, while her best friend prefers spontaneity. Featuring really bad irish accents!</dd>
+</dl>
+
 ## Square Explanations:
 <dl>
   <dt>Almost Kissed or Interrupted Kiss</dt>
@@ -60,16 +72,4 @@ You can customize your game by downloading [SquareList.txt](https://github.com/a
   <dd>Christmas market, christmas caroling, performance, or widely attended party.</dd>
   <dt>Inquiry about Obvious Love Interest</dt>
   <dd>A friend or family member asks about the obvious love interest. The main character usually dismisses it as nothing, but we all know that it’s something!</dd>
-</dl>
-
-## Movie Suggestions:
-<dl>
-  <dt>A Christmas in Vermont (<a href='https://www.youtube.com/watch?v=5BRTT7V4Ppk'>Free on Youtube</a>)</dt>
-  <dd>The classic story written by script writers with a questionable understanding of the apparel industry and private equity. Also Chevy Chase!</dd>
-  <dt>The Knight Before Christmas (<a href='https://www.netflix.com/title/81026188'>Netflix</a>)</dt>
-  <dd>Medieval magic sends a 14th-century knight to modern-day Ohio, where he falls for a high school science teacher who's disillusioned by love.</dd>
-  <dt>The Christmas Calendar (<a href='https://www.hulu.com/watch/f5dc2716-13c1-4a67-96c1-e372d6a415d5'>Hulu</a>)</dt>
-  <dd>A big city lawyer returns to her small town home to take over her grandmother's bakery. A secret admirer sends a christmas calendar with a new clue each day! .</dd>
-  <dt>Christmas Perfection (<a href='https://www.hulu.com/movie/christmas-perfection-c2dd3a4b-a72a-4c07-a5a0-624e01137c11'>Hulu</a>)</dt>
-  <dd>A control freak wants the perfect holiday, while her best friend prefers spontaneity. Featuring really bad irish accents!</dd>
 </dl>

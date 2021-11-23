@@ -10,7 +10,7 @@ Specific explainations for every square is provided below. Lively debate amongst
 
 You can customize your game by downloading [SquareList.txt](https://github.com/andyrew/Christmas-Movie-Bingo/blob/main/SquareList.txt). Add, remove, and edit items in the list as you see fit. Then generate your own cards by copying the list and pasting into the "Enter Words or Numbers Here" field with this bingo card generator: https://myfreebingocards.com/bingo-card-generator.
 
-### Movie Suggestions:
+## Movie Suggestions:
 <dl>
   <dt>A Christmas in Vermont (<a href='https://www.youtube.com/watch?v=5BRTT7V4Ppk'>Free on Youtube</a>)</dt>
   <dd>The classic story written by script writers with a questionable understanding of the apparel industry and private equity. Also Chevy Chase!</dd>
@@ -22,7 +22,7 @@ You can customize your game by downloading [SquareList.txt](https://github.com/a
   <dd>A control freak wants the perfect holiday, while her best friend prefers spontaneity. Featuring really bad irish accents!</dd>
 </dl>
 
-### Square Explanations:
+## Square Explanations:
 <dl>
   <dt>Almost Kissed or Interrupted Kiss</dt>
   <dd>Two people start coming together for a kiss, but someone turns or avoids it at the last second. Or two people begin to kiss but the kiss abruptly ends when another character walks in or something happens (like a crash from the kitchen).</dd>

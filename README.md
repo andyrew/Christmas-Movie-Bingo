@@ -64,12 +64,13 @@ You can customize your game by downloading [SquareList.txt](https://github.com/a
 
 ## Movie Suggestions:
 <dl>
-  <dt>A Christmas in Vermont (Free on <a href='https://www.youtube.com/watch?v=5BRTT7V4Ppk'>youtube</a>)</dt>
-  <dd>The classic story written by script writers with a questionable understanding of the apparel industry and private equity. Also Chevy Chase! .</dd>
-  <dt>The Christmas Calendar (On <a href='https://www.hulu.com/watch/f5dc2716-13c1-4a67-96c1-e372d6a415d5'>hulu</a>)</dt>
+  <dt>A Christmas in Vermont (<a href='https://www.youtube.com/watch?v=5BRTT7V4Ppk'>Free on youtube</a>)</dt>
+  <dd>The classic story written by script writers with a questionable understanding of the apparel industry and private equity. Also Chevy Chase!</dd>
+  <dt>The Knight Before Christmas (<a href='https://www.netflix.com/title/81026188'>Netflix</a>)</dt>
+  <dd>Medieval magic sends a 14th-century knight to modern-day Ohio, where he falls for a high school science teacher who's disillusioned by love.</dd>
+  <dt>The Christmas Calendar (<a href='https://www.hulu.com/watch/f5dc2716-13c1-4a67-96c1-e372d6a415d5'>hulu</a>)</dt>
   <dd>A big city lawyer returns to her small town home to take over her grandmother's bakery. A secret admirer sends a christmas calendar with a new clue each day! .</dd>
-  <dt>Christmas Perfection</dt>
-  <dd>A control freak wants the perfect holiday, while her best friend prefers spontaneity. Featuring really bad irish accents! On <a href='https://www.hulu.com/movie/christmas-perfection-c2dd3a4b-a72a-4c07-a5a0-624e01137c11'>hulu</a>.</dd>
-<dt>The Knight Before Christmas</dt>
-  <dd>Medieval magic sends a 14th-century knight to modern-day Ohio, where he falls for a high school science teacher who's disillusioned by love. On <a href='https://www.netflix.com/title/81026188'>Netflix</a>.</dd>
+  <dt>Christmas Perfection (<a href='https://www.hulu.com/movie/christmas-perfection-c2dd3a4b-a72a-4c07-a5a0-624e01137c11'>hulu</a>)</dt>
+  <dd>A control freak wants the perfect holiday, while her best friend prefers spontaneity. Featuring really bad irish accents!</dd>
+
 </dl>

@@ -50,6 +50,8 @@ You can customize your game by downloading [SquareList.txt](https://github.com/a
   <dd>Someone says the words “Hot Chocolate” or someone is seen drinking hot chocolate. Children holding mugs can be assumed to be hot chocolate. Adults holding mugs can not be assumed to be hot chocolate unless there is whipped cream on top, a candy cane sticking out, or marshmallows visible.</dd>
   <dt>Ice Skating / Carriage Ride</dt>
   <dd>Ice skating or a carriage rides (can be extras or b-roll).</dd>
+  <dt>Inquiry about Obvious Love Interest</dt>
+  <dd>A friend or family member asks about the obvious love interest. The main character usually dismisses it as nothing, but we all know that it’s something!</dd>
   <dt>Learned a Lesson</dt>
   <dd>Someone proclaims that they’ve learned a lesson or changed their ways.</dd>
   <dt>Move to Hometown or Small Town</dt>
@@ -70,6 +72,4 @@ You can customize your game by downloading [SquareList.txt](https://github.com/a
   <dd>Someone in the movie has a plan that is unknown to others in the movie.</dd>
   <dt>Town Event</dt>
   <dd>Christmas market, christmas caroling, performance, or widely attended party.</dd>
-  <dt>Inquiry about Obvious Love Interest</dt>
-  <dd>A friend or family member asks about the obvious love interest. The main character usually dismisses it as nothing, but we all know that it’s something!</dd>
 </dl>

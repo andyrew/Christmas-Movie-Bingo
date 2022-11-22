@@ -42,8 +42,6 @@ You can customize your game by downloading [SquareList.txt](https://github.com/a
   <dd>Any character or extra putting up christmas decorations.</dd>
   <dt>Elder Offers an Anecdote or Advice</dt>
   <dd>An older character tells a meaningful story or offers advice to a main character.</dd>
-  <dt>Person Clearly Wrong Romantically</dt>
-  <dd>The main character and another character are clearly wrong romantically. For example the main character brings their city slicker partner to their childhood home, and the partner does nothing but complain about the small town. This only pertains to characters that you know will not be together at the end, not characters that are made to seem incompatible at first but will obviously be right for each other in the end. For example when the main character and love interest are on opposing sides of a business quarrel, but you know they're going to end up together does not count for this square.</dd>
   <dt>Heartfelt Apology</dt>
   <dd>Must be sincere heartfelt apology, typically for something that happened earlier in the movie. Not for bumping into someone, spilling coffee, etc, (though exceptions may be made if the apology is over the top and cheesy).</dd>
   <dt>Hot Chocolate</dt>
@@ -58,6 +56,8 @@ You can customize your game by downloading [SquareList.txt](https://github.com/a
   <dd>Main character decides to move back home to be closer to family or move into the small town for a simpler or more authentic life.</dd>
   <dt>Noticed Touch</dt>
   <dd>Two characters touch and one, both, or a different character notices the touch in an obvious way, by looking at the touch or smiling. </dd>
+  <dt>Person Clearly Wrong Romantically</dt>
+  <dd>The main character and another character are clearly wrong romantically. For example the main character brings their city slicker partner to their childhood home, and the partner does nothing but complain about the small town. This only pertains to characters that you know will not be together at the end, not characters that are made to seem incompatible at first but will obviously be right for each other in the end. For example when the main character and love interest are on opposing sides of a business quarrel, but you know they're going to end up together does not count for this square.</dd>
   <dt>Playful Flirting</dt>
   <dd>Not simply flirting, but playfully flirting. For example throwing flour while baking, throwing tinsel while decorating, or throwing snow while outside. Usually involves throwing something.</dd>
   <dt>Playing in the Snow</dt>

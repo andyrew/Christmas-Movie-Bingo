@@ -42,8 +42,8 @@ You can customize your game by downloading [SquareList.txt](https://github.com/a
   <dd>Any character or extra putting up christmas decorations.</dd>
   <dt>Elder Offers an Anecdote or Advice</dt>
   <dd>An older character tells a meaningful story or offers advice to a main character.</dd>
-  <dt>Ex Turns Up</dt>
-  <dd>Must be unexpected, at least to the main character. Commonly occurs by bumping (sometimes literally) into the ex around town while home for christmas.</dd>
+  <dt>Person Clearly Wrong Romantically</dt>
+  <dd>The main character and another character are clearly wrong romantically. For example the main character brings their city slicker partner to their childhood home, and the partner does nothing but complain about the small town. This only pertains to characters that you know will not be together at the end, not characters that are made to seem incompatible at first but will obviously be right for each other in the end. For example when the main character and love interest are on opposing sides of a business quarrel, but you know they're going to end up together does not count for this square.</dd>
   <dt>Heartfelt Apology</dt>
   <dd>Must be sincere heartfelt apology, typically for something that happened earlier in the movie. Not for bumping into someone, spilling coffee, etc, (though exceptions may be made if the apology is over the top and cheesy).</dd>
   <dt>Hot Chocolate</dt>
@@ -56,8 +56,6 @@ You can customize your game by downloading [SquareList.txt](https://github.com/a
   <dd>Someone proclaims that they’ve learned a lesson or changed their ways.</dd>
   <dt>Move to Hometown or Small Town</dt>
   <dd>Main character decides to move back home to be closer to family or move into the small town for a simpler or more authentic life.</dd>
-  <dt>Nostalgia for the Deceased</dt>
-  <dd>A deceased person is discussed with nostalgia.</dd>
   <dt>Noticed Touch</dt>
   <dd>Two characters touch and one, both, or a different character notices the touch in an obvious way, by looking at the touch or smiling. </dd>
   <dt>Playful Flirting</dt>
@@ -72,4 +70,6 @@ You can customize your game by downloading [SquareList.txt](https://github.com/a
   <dd>Someone in the movie has a plan that is unknown to others in the movie.</dd>
   <dt>Town Event</dt>
   <dd>Christmas market, christmas caroling, performance, or widely attended party.</dd>
+  <dt>Tragic Backstory / Nostalgia for the Deceased</dt>
+  <dd>A character has a tragic back story and/or a deceased person is discussed with nostalgia.</dd>
 </dl>
